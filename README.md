@@ -3,8 +3,8 @@ Implementing ISO 27001 requires careful planning and execution to ensure a compr
 
 Senior Management Support:
 
-Step 1: Gain commitment from senior management for the implementation of ISO 27001.
-Step 2: Allocate necessary resources, including budget and personnel, for the implementation.
+# Step 1: Gain commitment from senior management for the implementation of ISO 27001.
+# Step 2: Allocate necessary resources, including budget and personnel, for the implementation.
 Step 3: Establish an Information Security Management Team:
 Step 4: Form a cross-functional team with representatives from different departments.
 Step 5: Assign roles and responsibilities within the team.
