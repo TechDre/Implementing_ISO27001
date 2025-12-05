@@ -19,12 +19,12 @@ Step 9: Identify threats, vulnerabilities, and potential impacts.
 Step 10: Implement controls to mitigate or manage identified risks.
 
 # Information Security Policies:
-Step 11: Develop and document information security policies based on the organization’s objectives and risk assessment.
+Step 11: Develop and document Information Security Policies based on the organization’s objectives and risk assessment.
 Step 12: Ensure policies are communicated, understood, and enforced throughout the organization.
 
 # Asset Management:
-Step 13: Identify information assets and classify them according to sensitivity and criticality.
-Step 14: Implement processes for the management of assets throughout their lifecycle.
+Step 13: Identify information assets and classify them by their sensitivity and critical level.
+Step 14: Implement processes for asset management throughout the lifecycle.
 
 # Access Control:
 Step 15: Define access control policies and procedures.
