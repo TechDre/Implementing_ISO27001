@@ -1,4 +1,4 @@
-# implementing ISO 27001 for small business
+# implementing ISO 27001- checklist for small business
 Implementing ISO 27001 requires careful planning and execution to ensure a comprehensive security management system deployment. Here's a checklist to guide you through the process:
 
 # Senior Management Support:
